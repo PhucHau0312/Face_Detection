@@ -1,7 +1,7 @@
 # Face_Detection
 ## Summary 
 ## Prepare dataset
-Download dataset: https://www.kaggle.com/datasets/mksaad/wider-face-a-face-detection-benchmark. Download annotation: https://drive.google.com/file/d/1tU_IjyOwGQfGNUvZGwWWM4SwxKp2PUQ8/view
+Download [dataset](https://www.kaggle.com/datasets/mksaad/wider-face-a-face-detection-benchmark), [annotations](https://drive.google.com/file/d/1tU_IjyOwGQfGNUvZGwWWM4SwxKp2PUQ8/view)
 ## Training
 python3 train.py --data data/widerface.yaml --cfg models/yolov5s.yaml --weights 'pretrained models'
 ## Testing
