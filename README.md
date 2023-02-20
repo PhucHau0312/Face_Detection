@@ -1,5 +1,6 @@
 # Face_Detection
 ## Summary 
+Implementation of paper - [YOLO5Face: Why Reinventing a Face Detector](https://arxiv.org/abs/2105.12931)
 ## Prepare dataset
 Download [dataset](https://www.kaggle.com/datasets/mksaad/wider-face-a-face-detection-benchmark), [annotations](https://drive.google.com/file/d/1tU_IjyOwGQfGNUvZGwWWM4SwxKp2PUQ8/view)
 ## Training
